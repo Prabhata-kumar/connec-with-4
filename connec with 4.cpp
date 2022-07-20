@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <iostream>
 using namespace std;
-using namespace std;
+
 
 #define RED     "\033[31m"      /* Red */
 #define GREEN   "\033[32m"      /* Green */
